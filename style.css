@@ -1,0 +1,10 @@
+.winner{
+    color:green;
+}
+
+body{
+    text-align: center;
+    font-family: gotham;
+}
+h1#firsth1{
+    font-size: 100px;
